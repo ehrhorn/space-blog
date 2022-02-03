@@ -1,0 +1,11 @@
+# Ignore artifacts:
+/build
+/coverage
+/.cache
+/public/build
+
+# Ignore NPM modules:
+node_modules
+
+# Ignore local config files:
+.env
